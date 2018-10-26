@@ -1,0 +1,24 @@
+{
+  "name": "api-rest-expressjs",
+  "version": "1.0.0",
+  "description": "Primeiro API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandoleonid/API-REST-ExpressJS.git"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "expressjs"
+  ],
+  "author": "Fernando Leonid",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/fernandoleonid/API-REST-ExpressJS/issues"
+  },
+  "homepage": "https://github.com/fernandoleonid/API-REST-ExpressJS#readme"
+}
